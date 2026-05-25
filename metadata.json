@@ -1,0 +1,5 @@
+{
+  "name": "Redline",
+  "description": "A professional-grade text comparison tool for legal practitioners. Features smart redlining with blue additions, red deletions, and green move detection.",
+  "requestFramePermissions": []
+}
